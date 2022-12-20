@@ -1,0 +1,222 @@
+/*.footer-container {
+    width: 1440px;
+    height: 341px;
+    display: flex;
+    padding: 0;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .footer {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 341px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    background-color: #F68C1F;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .orangeblock {
+    top: -61px;
+    left: -114px;
+    width: 664px;
+    height: 550px;
+    position: absolute;
+  }
+
+  .logo2{
+    position: absolute;
+    width: 463px;
+    height: 138px;
+    left: -25px;
+    top: 102px;
+
+  }
+  
+  .blueblock {
+   top: -6px;
+  right: -6px;
+  width: 875px;
+  height: 357px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: #1F3368;
+  }
+  .rectangle3 {
+    top: 0px;
+    left: 32px;
+    width: 928px;
+    height: 341px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .group8 {
+    top: 42px;
+    left: 500px;
+    width: 689px;
+    height: 208px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .text {
+    color: rgba(255, 255, 255, 1);
+    width: 368px;
+    height: auto;
+    position: absolute;
+    flex-grow: 1;
+    font-size: 32px;
+    align-self: stretch;
+    font-style: Bold;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 129.99999523162842%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame19 {
+    top: 72px;
+    left: 100px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .text02 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 32px;
+    text-decoration: none;
+  }
+  .text04 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 32px;
+    text-decoration: none;
+  }
+  .text06 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame20 {
+    top: 72px;
+    left: 581px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .text08 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 32px;
+    text-decoration: none;
+  }
+  .text10 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 32px;
+    text-decoration: none;
+  }
+  .text12 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 600;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  */
